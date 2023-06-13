@@ -1,0 +1,4 @@
+#!/bin/bash
+env_vars=$(printenv)
+echo "Environment Variables:"
+echo "$env_vars"
